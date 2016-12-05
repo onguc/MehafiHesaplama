@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.menafi.mehafihesaplama.MainActivity"
+    android:gravity="center"
+    android:weightSum="1">
+
+
+
+        <Button
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnAddPerson"
+            android:background="@color/btnColor"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_margin="@dimen/btn_margin"
+            android:text="@string/btn_add_person"
+            android:textSize="24sp"
+            android:textColor="@color/btnTextColor"
+            android:layout_weight="0.07" />
+
+        <Button
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnLast"
+            android:background="@color/btnColor"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_margin="@dimen/btn_margin"
+            android:textColor="@color/btnTextColor"
+            android:text="@string/btn_add_menafi"
+            android:textSize="24sp"
+            android:layout_weight="0.07" />
+
+
+
+
+
+</LinearLayout>

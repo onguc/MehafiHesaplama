@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menafi Hesap</string>
+    <string name="btn_add_person">Kişi Ekle</string>
+    <string name="btn_add_menafi">Menafi</string>
+    <string name="action_search">Başlık</string>
+    <string name="action_search2">Başlık</string>
+    <string name="action_search3">Başlık</string>
+    <string name="tv_name">Adı</string>
+    <string name="tv_tel_no">Telefon Numarası</string>
+    <string name="btn_save_person">Ekle</string>
+    <string name="deneme">deneme</string>
+</resources>
